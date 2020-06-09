@@ -1,0 +1,12 @@
+Library/*
+Logs/*
+obj/*
+Packages/*
+ProjectSettings/*
+Assets/ExternalDependencyManager/*
+Assets/GoogleMobileAds/*
+Assets/Plugins/*
+*.aab
+*.apk
+*.keystore
+*.meta
